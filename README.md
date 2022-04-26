@@ -42,11 +42,11 @@ Aproksymacja wielomianowa:
 
 
 Aproksymacja najmniejszy kwadratów:
-<p align="center">
+<center>
 |![w2](https://user-images.githubusercontent.com/74370363/165364633-f4750149-cb7d-4b98-9859-1226bd07750d.png)|
 |:--:|
 |Wykres dla 2 funkcji bazowych|
-</p>
+</center>
 
 |![w10](https://user-images.githubusercontent.com/74370363/165364710-1cb16ee2-7b5d-4541-81bd-45fba01477a7.png)|
 |:--:|
