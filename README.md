@@ -12,7 +12,6 @@ W tej części obliczane są argumenty i wartości funkcji dla zakresu <-4,4>  i
 |![w2](https://user-images.githubusercontent.com/74370363/165354438-9f8048fe-0b45-4853-a8b4-366070f5e8c1.png)|
 |:--:|
 |Wykres dla dwóch węzłów|
-|:--:|
 |![w2b](https://user-images.githubusercontent.com/74370363/165355282-facf269a-865a-4d2e-b578-0fdd7b0fcc04.png)|
 
 
