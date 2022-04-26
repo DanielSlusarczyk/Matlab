@@ -24,4 +24,18 @@ W tej części obliczane są argumenty i wartości funkcji dla zakresu <-4,4>  i
 
 Wykres zawiera wykres funkcji wzorcowej f(x) danej w zadaniu, funkcji interpolacyjnej i(x) i węzłów interpolacyjnych. Ostatnim etapem jest obliczenie błędów: maksymalnego i średniego. Etap ten pozwala na wybranie ilości l_pkt punktów, które mają zostać przeanalizowane w liczeniu błędów. Wartość l_pkt bezpośrednio wpływa na dokładność wyniku. Kod oblicza nowe wartości funkcji f(x) i i(x) dla wybranej ilości punktów l_pkt i dokonuje obliczeń błędów zgodnie ze wzorami. Dokładniejsza analiza kodu została również zawarta z kodem źródłowym w formie komentarzy.
 
+## Aproksymacja
+Celem projektu było napisanie kodu realizującego aproksymacje wielomianową i najmniejszych kwadratów na podstawie zadanej funkcji i wybranej liczby punktów.
 
+### Wyniki
+Aproksymacja wielomianowa:
+
+|![s3](https://user-images.githubusercontent.com/74370363/165363803-762de49f-8b22-4331-ba25-9eca8c970642.png)|
+|:--:|
+|Wykres dla stopnia wielomianu 3|
+|![b3](https://user-images.githubusercontent.com/74370363/165364003-49d721c1-7303-4722-b49d-1948f21bfe2b.png)|
+
+|![s8](https://user-images.githubusercontent.com/74370363/165363819-073ee521-b931-410f-bd53-3a7188d9676f.png)|
+|:--:|
+|Wykres dla stopnia wielomianu 8|
+|![b8](https://user-images.githubusercontent.com/74370363/165364219-c502a193-03f8-401c-a3ea-0019a7e0787b.png)|
