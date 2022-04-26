@@ -39,3 +39,14 @@ Aproksymacja wielomianowa:
 |:--:|
 |Wykres dla stopnia wielomianu 8|
 |![b8](https://user-images.githubusercontent.com/74370363/165364219-c502a193-03f8-401c-a3ea-0019a7e0787b.png)|
+
+
+Aproksymacja najmniejszy kwadratów:
+|![w2](https://user-images.githubusercontent.com/74370363/165364633-f4750149-cb7d-4b98-9859-1226bd07750d.png)|
+|:--:|
+|Wykres dla 2 funkcji bazowych|
+
+|![w10](https://user-images.githubusercontent.com/74370363/165364710-1cb16ee2-7b5d-4541-81bd-45fba01477a7.png)|
+|:--:|
+|Wykres dla 10 funkcji bazowych|
+
