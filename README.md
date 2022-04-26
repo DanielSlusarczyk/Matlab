@@ -7,7 +7,7 @@ Celem projektu było napisanie kodu realizującego interpolacje - tworzenie odwz
 ## Kod
 Pierwszy fragment dotyczy analizowanej funkcji. Przykładowo:  
 <p align="center">
-  **f(x)=100*log(x+5)**  
+  f(x)=100*log(x+5)
 </p>
 W tej części obliczane są argumenty i wartości funkcji dla zakresu <-4,4>  i l_arg punktów. Kolejnym etapem jest obliczenie współrzędnych wybranej ilości num_w węzłów interpolacyjnych na podstawie analizowanej funkcji. Otrzymane węzły interpolacyjne są przesyłane do funkcji laggr() wraz ze zmienną l_arg określającą ile punktów ma zawierać nowa funkcja interpolacyjna. Funkcja interpolacyjna wyznacza przebieg interpolacji. Następnym krokiem jest zaprezentowanie otrzymanych danych w formie wykresu.
 
