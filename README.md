@@ -4,7 +4,7 @@ Repozytorium projektów matlab realizowanych głównie na zajęciach Metod Numer
 ## Interpolacja
 Celem projektu było napisanie kodu realizującego interpolacje - tworzenie odwzorowania funkcji bazowej za pomocą danych węzłów interpolacji. Projekt korzysta z interpolacji Lagrange'a.
 
-## Kod
+### Kod
 Pierwszy fragment dotyczy analizowanej funkcji. Przykładowo:  
 <p align="center">
   f(x)=100*log(x+5)
